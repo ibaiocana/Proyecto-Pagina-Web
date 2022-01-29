@@ -1,0 +1,94 @@
+body{
+	width: 100%;
+	background-image: url(fondo.png);
+	background-size: cover;
+	background-position: center center;
+	margin: 0 auto;
+}
+
+#pagina{
+	position: relative;
+	width: 80%;
+	margin: 0 auto;
+	background-color: red;
+}
+
+#indice{
+	position: relative;
+	display: inline-block;
+	margin: 0;
+	padding-left: 50px;
+	padding: 0;
+	line-height: 1;
+	list-style: none;
+	width: 60%;
+	bottom: 60px;
+	padding-left: 100px;
+}
+
+.indicelista{
+	list-style: none;
+	position: relative;
+	display: inline-block;
+	vertical-align: baseline;
+	margin: 10px;
+}
+
+.indicelista a {
+	color: white;
+	text-decoration: none;
+}
+
+.indicelista a:hover{
+	color: orange;
+}
+
+.logo{
+	position: relative;
+	display: inline-block;
+	width: 120px;
+	height: 120px;
+	margin: 0;
+	bottom: 8px;
+}
+
+#header{
+	height: 105px;
+}
+
+#main{
+	background-color: white;
+	width: 100%;
+}
+
+#pie{
+	background-color: red;
+	width: 100%;
+}
+
+.logopie{
+	position: relative;
+	display: inline-block;
+	width: 120px;
+	height: 120px;
+	margin: 0;
+	top: 10px;
+}
+
+#letras{
+	position: relative;
+	display: inline-block;
+	width: 120px;
+	height: 120px;
+	margin: 0;
+	bottom: 8px;
+}
+
+#letras2{
+	position: relative;
+	display: inline-block;
+	width: 120px;
+	height: 120px;
+	margin: 0;
+	bottom: 8px;
+}
