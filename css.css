@@ -134,28 +134,3 @@ a.noSeleccionable {
 
 
 
-
-/*
-.submenu li:hover > ul {
-	display: block;
-
-}
-#espaciador{
-	color: transparent;
-
-}*/
-/*
-p.noSeleccionable {
-  -webkit-user-select: none; 
-     -moz-user-select: none;
-      -ms-user-select: none;
-          user-select: none;
-}
-
-.submenu li {
-	
-	position: absolute;
-	min-width: 140px;
-	
-
-}*/
