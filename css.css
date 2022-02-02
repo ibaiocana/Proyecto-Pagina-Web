@@ -15,7 +15,7 @@ body{
 
 #indice{
 	position: relative;
-	display:inline-block;
+	display: inline-block;
 	margin: 0;
 	padding-left: 50px;
 	padding: 0;
@@ -28,12 +28,10 @@ body{
 
 .indicelista{
 	list-style: none;
-	background-color: red;
 	position: relative;
 	display: inline-block;
-	vertical-align:middle;
+	vertical-align: baseline;
 	margin: 10px;
-	
 }
 
 .indicelista a {
@@ -42,7 +40,7 @@ body{
 }
 
 .indicelista a:hover{
-	color: darkred;
+	color: orange;
 }
 
 .logo{
@@ -95,44 +93,6 @@ body{
 	bottom: 8px;
 }
 
-/*Aqui comienzo con las clases para los submenus*/
-
-
-.indicelista > li {
-	float: left;
-
-}
-
-.submenu{
-	display: none;
-	position: absolute;
-	min-width: 100px;
-	list-style: none;
-	padding: 0px;
-}
-
-.indicelista:hover > ul{
-	display: block;	
-	
-}
-
-a.noSeleccionable {
-	-webkit-user-select: none; 
-	   -moz-user-select: none;
-		-ms-user-select: none;
-			user-select: none;
-}
-
-.submenu a {
-	color: orange;
-	text-decoration: none;
-}
-
-.submenu a :hover{
-	color: darkred;
-}
-
-
 #div_destacados {
 	display: inline-block;
 	position: relative;
@@ -163,3 +123,12 @@ a > p:hover {
 	width: 70%;
 	height: 100%;
 }
+
+.columna_derecha {
+                float:right; /* Alineación a la derecha */
+                display: inline-block;
+				position: relative;
+                width:270px;
+                margin: 1%;
+                padding:20px;
+          		 }
