@@ -126,7 +126,7 @@ a > p:hover {
 
 /* css pagina noticias*/
 
-#div_general_noticias {
+.div_general_noticias {
 	display: inline-block;
 	position: relative;
 	margin: 2%;
