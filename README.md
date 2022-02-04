@@ -47,3 +47,5 @@ Este proyecto está bajo la Licencia (Apache License 2.0) - mira el archivo [LIC
 ---
 ⌨️ con ❤️ por [ibaiocana](https://github.com/ibaiocana) 😊
 ⌨️ con ❤️ por [dtorres15](https://github.com/dtorres15) 😊
+⌨️ con ❤️ por [alexinsti](https://github.com/alexinsti) 😊
+⌨️ con ❤️ por [javierfdez22](https://github.com/javierfdez22) 😊
