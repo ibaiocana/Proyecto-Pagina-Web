@@ -126,13 +126,22 @@ a > p:hover {
 
 /* css pagina noticias*/
 
-#div_noticias {
+#div_general_noticias {
 	display: inline-block;
 	position: relative;
 	margin: 2%;
 	width: 100%;
 	height: 100%;
 }
+
+.div_en_noticias {
+	display: inline-block;
+	position: relative;
+	width: 33%;
+	height: 100%;
+}
+
+/* fin css pagina noticias*/
 
 .columna_derecha {
                 float:right; /* Alineación a la derecha */
