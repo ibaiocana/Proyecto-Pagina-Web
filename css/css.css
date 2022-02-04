@@ -1,6 +1,6 @@
 body{
 	width: 100%;
-	background-image: url(fondo.png);
+	background-image: url(../Imagenes/fondo.png);
 	background-size: cover;
 	background-position: center center;
 	margin: 0 auto;
@@ -132,3 +132,40 @@ a > p:hover {
                 margin: 1%;
                 padding:20px;
           		 }
+
+/*Aqui comienzo con las clases para los submenus*/
+
+
+.indicelista > li {
+	float: left;
+
+}
+
+.submenu{
+	display: none;
+	position: absolute;
+	min-width: 100px;
+	list-style: none;
+	padding: 0px;
+}
+
+.indicelista:hover > ul{
+	display: block;	
+
+}
+
+a.noSeleccionable {
+	-webkit-user-select: none; 
+	   -moz-user-select: none;
+		-ms-user-select: none;
+			user-select: none;
+}
+
+.submenu a {
+	color: orange;
+	text-decoration: none;
+}
+
+.submenu a :hover{
+	color: darkred;
+}
