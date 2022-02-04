@@ -33,7 +33,7 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (Apache License 2.0) - mira el archivo [LICENSE](LICENSE) para detalles
 
 ## Expresiones de Gratitud 🎁
 
@@ -46,3 +46,4 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 ---
 ⌨️ con ❤️ por [ibaiocana](https://github.com/ibaiocana) 😊
+⌨️ con ❤️ por [dtorres15](https://github.com/dtorres15) 😊
