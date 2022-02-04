@@ -124,7 +124,7 @@ a > p:hover {
 	height: 100%;
 }
 
-/* css pagina noticias*/
+/* pagina noticias */
 
 .div_general_noticias {
 	display: inline-block;
@@ -141,7 +141,7 @@ a > p:hover {
 	height: 100%;
 }
 
-/* fin css pagina noticias*/
+/* fin pagina noticias */
 
 .columna_derecha {
                 float:right; /* Alineación a la derecha */
