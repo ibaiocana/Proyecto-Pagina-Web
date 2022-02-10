@@ -18,10 +18,6 @@ Los unicos pre-requisitos son tener un navegador web.
 * [Git-Hub](https://github.com) - Usado para poder trabajar en conjunto.
 * [Trello](https://trello.com/es) - Pizarra para dividirnos el trabajo.
 
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
 ## Autores ✒️
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
