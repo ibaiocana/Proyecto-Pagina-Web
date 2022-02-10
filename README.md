@@ -35,14 +35,6 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 Este proyecto está bajo la Licencia (Apache License 2.0) - mira el archivo [LICENSE](LICENSE) para detalles
 
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
-
-
 
 ---
 ⌨️ con ❤️ por [ibaiocana](https://github.com/ibaiocana) 😊
